@@ -7,4 +7,4 @@ Taking over a press machine using RS function.
 ![Press machine (FBD)](https://user-images.githubusercontent.com/41565191/57507139-18410d00-7313-11e9-8ee3-fd11ff64d6f9.jpg)
 
 
-https://github.com/Mahdi-Heidari/PLC-Press-machine/edit/master/README.md
+![Press machine (LLD)](https://user-images.githubusercontent.com/41565191/57507183-4292ca80-7313-11e9-8570-da815d75128b.jpg)
